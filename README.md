@@ -4,7 +4,7 @@ Python codes provide read  access to a wireless network card’s capabilities us
 
 winwifi_scanner.py is a wifi scanner wrapped for wlanapi.dll, tested on MS Windows 10 and  Python 3.7 
 
-#python winwifi_scan.py
+#python winwifi_scanner.py
 
  Rssi:-66 dbm   Freq: 2.412 GHz  type: 802.11n  algo: 1  rate: 12  BSSID: 24:A4:3C:42:2D:BB  SSID:scb2-f2-1-wifi
  Rssi:-65 dbm   Freq: 2.437 GHz  type: 802.11n  algo: 1  rate: 12  BSSID: 68:72:51:26:FA:D7  SSID:Design-UDRU-Wifi
