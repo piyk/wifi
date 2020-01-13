@@ -4,7 +4,7 @@
 * wifi_snifer.py wrappers runs natively on Windows/Linux using scapy API 
 
 ### winwifi_scanner.py
-
+```
  Rssi:-66 dbm   Freq: 2.412 GHz  type: 802.11n  algo: 1  rate: 12  BSSID: 24:A4:3C:42:2D:BB  SSID:scb2-f2-1-wifi
  Rssi:-65 dbm   Freq: 2.437 GHz  type: 802.11n  algo: 1  rate: 12  BSSID: 68:72:51:26:FA:D7  SSID:Design-UDRU-Wifi
  Rssi:-66 dbm   Freq: 2.437 GHz  type: 802.11n  algo: 1  rate: 12  BSSID: 24:A4:3C:42:28:5A  SSID:scb2-f3-1-wifi
@@ -17,9 +17,9 @@
  Rssi:-69 dbm   Freq: 5.64 GHz  type: 802.11ac  algo: 6  rate: 4  BSSID: 34:F8:E7:11:77:6B  SSID:eduroam By TRUE
  Rssi:-64 dbm   Freq: 5.64 GHz  type: 802.11ac  algo: 4  rate: 4  BSSID: 34:F8:E7:11:77:6C  SSID:UDRU-NET By TRUE
  Rssi:-66 dbm   Freq: 5.64 GHz  type: 802.11ac  algo: 1  rate: 4  BSSID: 34:F8:E7:11:77:6D  SSID:UDRU-Wifi By TRUE
-
+```
 ### wifi_sniffer.py 
- 
+ ```
  [+] Sniffing on interface Wi-Fi 14:
  [+] Sniffing on channel 1
     Ether / ARP who has 10.1.142.200 says 10.1.142.124
@@ -33,3 +33,4 @@
  0010  00 01 00 04 48 95 C2 03 0C FF 58 D9 5E D6 DC AF  ....H.....X.^...
  0020  A2 51 59 1F 8F 57 A9 FE E9 6B AB 83              .QY..W...k..
  None
+```
