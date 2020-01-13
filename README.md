@@ -1,7 +1,7 @@
 # WiFi analyzer
 * Python codes provide read  access to a wireless network card’s capabilities using OS WiFi Extensions.
 * winwifi_scanner.py is a wifi scanner wrapped for wlanapi.dll, tested on MS Windows 10 and  Python 3.7 
-* wifi_snifer.py wrappers runs natively on Windows/Linux using scapy API 
+* wifi_snifer.py wrapper runs natively on Windows/Linux using scapy API 
 
 ### winwifi_scanner.py
 ```
